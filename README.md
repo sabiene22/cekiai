@@ -1,0 +1,2 @@
+# cekiai
+Čekių skanavimas
